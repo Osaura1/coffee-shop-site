@@ -1,0 +1,47 @@
+body {background-image: url("coffeebackground.jpg"); background-size: cover;}
+
+h1 {border: #532c0c solid 2px;
+    background-color: burlywood;
+border-radius: 10px; font-size: 50px; color: #532c0c;font-family: 'Times New Roman', Times, serif; text-align: center;
+width: fit-content; margin-left: 790px;
+padding-left: 20px;
+padding-right: 20px;}
+
+.large {margin-left: 700px; color: bisque; font-size: xx-large; font-family: 'Times New Roman', Times, serif;}
+
+.Hm a {border: #532c0c solid 2px;
+    background-color: burlywood;
+border-radius: 10px;
+padding-left: 20px;
+padding-right: 20px; text-decoration: none; color: #532c0c;
+font-weight: bolder;}
+    
+.Ab a {border: #532c0c solid 2px;
+    background-color: burlywood;
+    border-radius: 10px; 
+    padding-right: 20px;
+padding-left: 20px;
+    text-decoration: none; color: #532c0c; 
+    font-weight: bolder;}
+
+.Pj a {border: #532c0c solid 2px;
+    background-color: burlywood;
+    border-radius: 10px;
+    padding-right: 20px;
+padding-left: 20px;
+ text-decoration: none; color: #532c0c;
+ font-weight: bolder;}
+
+ h2 {border: burlywood solid 2px;
+    background-color: #532c0c; background-size: cover;
+border-radius: 10px; font-size: 50px; color: burlywood;font-family: 'Times New Roman', Times, serif; text-align: center;
+width: fit-content; margin-left: 810px;
+padding-left: 20px;
+padding-right: 20px;}
+
+p {border: burlywood solid 2px;
+    background-image: url("coffeegif.gif"); background-size: cover;
+border-radius: 10px; font-size: 35px; color: burlywood;font-family: 'Times New Roman', Times, serif; text-align: center;
+width: fit-content; margin-right: 1000px; background-position: center; 
+padding-left: 20px;
+padding-right: 20px;}
